@@ -44,6 +44,14 @@ streamlit run app.py
 
 This will launch a web interface where you can input various features of a house, and the model will predict the price.
 
+## Streamlit App Screenshots
+
+### Input Section
+![Input Section](output-1.png)
+
+### Prediction Result
+![Prediction Result](output-2.png)
+
 ## Model Deployment
 The model is deployed using Streamlit, making it accessible through a simple web interface. The app allows users to input new data and get predictions based on the trained model.
 
@@ -52,4 +60,3 @@ This project demonstrates the process of building, evaluating, and deploying a m
 
 ## Author
 **Sharath Kumar Reddy** - AI/ML Engineer and Frontend Web Developer
- 
